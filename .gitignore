@@ -1,3 +1,5 @@
+.gitatributes
+
 # Virtual environments
 venv/
 env/
